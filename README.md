@@ -11,11 +11,7 @@ This repository contains all the code, data, and visualizations for our project 
 - **Visualization Notebooks:**
 
   - `Visualization1.ipynb`
-  - `Visualization2.ipynb`
-  - `Visualization3.ipynb`
-  - `Visualization4.ipynb`
-  - `Visualization5.ipynb`
-  - `Visualization6.ipynb`: 
+  - `Visualization2.ipynb`: 
 
 - **Data Files:**
 
