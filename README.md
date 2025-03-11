@@ -32,7 +32,7 @@ This repository contains all the code, data, and visualizations for our project 
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/reilyfairchild/EEP-153-Proj-02.git>
 ```
 
 2. Install the required packages (if applicable):
@@ -54,7 +54,7 @@ Feel free to contribute, raise issues, or provide feedback to help us improve th
 
 ---
 
-**Contributors:** [Carmen Vega, Johann Dicken, Laure Ho, Reily Jean, Steven Zeng]
+**Contributors:** [Carmen Vega, Johann Dicken, Laure Ho, Reily Jean, Steven Zeng, Xinyu Zhou]
 
 
 ---
