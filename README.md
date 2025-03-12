@@ -10,8 +10,8 @@ This repository contains all the code, data, and visualizations for our project 
 
 - **Visualization Notebooks:**
 
-  - `Visualization1.ipynb`
-  - `Visualization2.ipynb`
+  - `Visualization1.ipynb`: General visualizations comparing diet classifications by gender and age categories, with a focus on the percentage distribution of vegan, omnivore, and other diets in the U.S.
+  - `Visualization2.ipynb`: It is specific to our project. It analyzes the environmental and economic impacts of the omnivore diet and compares it with the vegan diet (Original minimum diet cost vs C02 cost vs H2O cost). 
 
 - **Data Files:**
 
